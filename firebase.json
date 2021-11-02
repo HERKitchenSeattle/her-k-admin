@@ -12,12 +12,6 @@
         "source": "**",
         "destination": "/index.html"
       }
-    ],
-    "headers": [
-      {
-        "key": "X-FRAME-OPTIONS",
-        "value": "DENY"
-      }
     ]
   },
   "storage": {
